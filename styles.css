@@ -1,0 +1,18 @@
+.no-content
+{
+    width: 20%;
+    height: 100vh;
+    background-image: linear-gradient(red, purple);
+}
+
+.main-window
+{
+    width: 60%;
+    height: 100vh;
+    background-color: gray;
+}
+
+.wrapper
+{
+    display: flex;
+}

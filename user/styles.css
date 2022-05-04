@@ -1,0 +1,55 @@
+.no-content
+{
+    width: 20%;
+    height: 100vh;
+    background-image: linear-gradient(red, purple);
+}
+
+body
+{
+    background-color: black;
+}
+
+.main-window
+{
+    border-radius: 15px;
+    border-width: 3px;
+    width: 60%;
+    height: 100vh;
+    background-color: gray;
+}
+
+.container-fluid
+{
+    background-color: black;
+    background-image: linear-gradient(red, purple);
+}
+
+.wrapper
+{
+    display: flex;
+}
+
+.data-layout
+{
+    padding: 10%;
+}
+
+.input-form
+{
+
+    margin-top: 5vh;
+    border-style: hidden;
+}
+
+.data-container
+{
+
+    width: 50%;
+    height: 80vh;
+    margin-left: 25%;
+    margin-top: 10%;
+    border-radius: 10px;
+    background-color: royalblue;
+    border-style: groove;
+}
